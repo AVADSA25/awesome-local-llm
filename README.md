@@ -170,8 +170,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Audio
 
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron Speech](https://huggingface.co/collections/nvidia/nemotron-speech) - a collection of open, state-of-the-art, production‑ready enterprise speech models from the NVIDIA Speech research team for ASR, TTS, Speaker Diarization and S2S
-- [Qwen3-ASR](https://huggingface.co/collections/Qwen/qwen3-asr) - a collection of  models that support language identification and ASR for 52 languages and dialects
+- [Qwen3-ASR](https://huggingface.co/collections/Qwen/qwen3-asr) - a collection of models that support language identification and ASR for 52 languages and dialects
 - [Qwen3-TTS](https://huggingface.co/collections/Qwen/qwen3-tts) - a collection of TTS models that cover 10 major languages as well as multiple dialectal voice profiles to meet global application needs
+- [Granite Speech](https://huggingface.co/collections/ibm-granite/granite-speech) - a collection of compact and efficient speech-language models from IBM, specifically designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST)
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Voxtral-Small-24B-2507](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) - an enhancement of Mistral Small 3, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602) - a multilingual, realtime speech-transcription model and among the first open-source solutions to achieve accuracy comparable to offline systems with a delay of <500ms
 - [chatterbox](https://huggingface.co/ResembleAI/chatterbox) - first production-grade open-source TTS model
